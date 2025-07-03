@@ -1,0 +1,16 @@
+opencv-python
+mediapipe
+numpy
+pycaw
+comtypes
+
+opencv-python — for webcam video and image processing
+
+mediapipe — for real-time hand landmark tracking
+
+numpy — for math operations and interpolation
+
+pycaw — to control system audio (Windows only)
+
+comtypes — required by Pycaw to talk to Windows COM objects
+
