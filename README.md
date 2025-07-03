@@ -39,5 +39,3 @@ Clone this repository and install dependencies:
 ```bash
 git clone https://github.com/1anasradwan1/hand-volume-control.git
 cd hand-volume-control
-pip install -r requirements.txt
-# hand-volume-control
